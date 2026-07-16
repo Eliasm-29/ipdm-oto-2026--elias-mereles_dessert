@@ -1,6 +1,6 @@
 # Dessert Clicker App
 
-Trabajo práctico de la materia **Dispositivos Móviles** — IPDM Otoño 2025.
+Trabajo práctico de la materia **Dispositivos Móviles** — IPDM Otoño 2026.
 
 **Alumno:** Elias Mereles
 
